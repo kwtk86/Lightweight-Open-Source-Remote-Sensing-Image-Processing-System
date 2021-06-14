@@ -1,0 +1,38 @@
+D:\New desktop\new\Study\remote\miniENVI\miniENVI\bin\Debug\miniENVI.exe.config
+D:\New desktop\new\Study\remote\miniENVI\miniENVI\bin\Debug\miniENVI.exe
+D:\New desktop\new\Study\remote\miniENVI\miniENVI\bin\Debug\miniENVI.pdb
+D:\New desktop\new\Study\remote\miniENVI\miniENVI\obj\Debug\miniENVI.Properties.Resources.resources
+D:\New desktop\new\Study\remote\miniENVI\miniENVI\obj\Debug\miniENVI.csproj.GenerateResource.cache
+D:\New desktop\new\Study\remote\miniENVI\miniENVI\obj\Debug\miniENVI.csproj.CoreCompileInputs.cache
+D:\New desktop\new\Study\remote\miniENVI\miniENVI\obj\Debug\miniENVI.exe
+D:\New desktop\new\Study\remote\miniENVI\miniENVI\obj\Debug\miniENVI.pdb
+D:\New desktop\new\Study\remote\miniENVI\miniENVI\obj\Debug\miniENVI.csprojAssemblyReference.cache
+D:\New desktop\new\Study\remote\miniENVI\miniENVI\obj\Debug\miniENVI.PicForm.resources
+D:\New desktop\new\Study\remote\miniENVI\miniENVI\obj\Debug\miniENVI.MatchForm.resources
+D:\New desktop\new\Study\remote\miniENVI\miniENVI\obj\Debug\miniENVI.BandForm.resources
+D:\New desktop\new\Study\remote\miniENVI\miniENVI\obj\Debug\miniENVI.statistic.MultiStatisIniForm.resources
+D:\New desktop\new\Study\remote\miniENVI\miniENVI\obj\Debug\miniENVI.SingleStatisForm.resources
+D:\New desktop\new\Study\remote\miniENVI\miniENVI\obj\Debug\miniENVI.statistic.MatrixForm.resources
+D:\New desktop\new\Study\remote\miniENVI\miniENVI\obj\Debug\miniENVI.statistic.HistoGraph.resources
+D:\New desktop\new\Study\remote\miniENVI\miniENVI\obj\Debug\miniENVI.FlatFieldForm.resources
+D:\New desktop\new\Study\remote\miniENVI\miniENVI\obj\Debug\miniENVI.MainForm.resources
+D:\New desktop\new\Study\remote\miniENVI\miniENVI\obj\Debug\miniENVI.files.BandSelectForm.resources
+D:\ProgramData\miniENVI\miniENVI\bin\Debug\miniENVI.exe.config
+D:\ProgramData\miniENVI\miniENVI\bin\Debug\miniENVI.exe
+D:\ProgramData\miniENVI\miniENVI\bin\Debug\miniENVI.pdb
+D:\ProgramData\miniENVI\miniENVI\obj\Debug\miniENVI.csprojAssemblyReference.cache
+D:\ProgramData\miniENVI\miniENVI\obj\Debug\miniENVI.BandForm.resources
+D:\ProgramData\miniENVI\miniENVI\obj\Debug\miniENVI.FlatFieldForm.resources
+D:\ProgramData\miniENVI\miniENVI\obj\Debug\miniENVI.files.BandSelectForm.resources
+D:\ProgramData\miniENVI\miniENVI\obj\Debug\miniENVI.MainForm.resources
+D:\ProgramData\miniENVI\miniENVI\obj\Debug\miniENVI.MatchForm.resources
+D:\ProgramData\miniENVI\miniENVI\obj\Debug\miniENVI.PicForm.resources
+D:\ProgramData\miniENVI\miniENVI\obj\Debug\miniENVI.Properties.Resources.resources
+D:\ProgramData\miniENVI\miniENVI\obj\Debug\miniENVI.statistic.HistoGraph.resources
+D:\ProgramData\miniENVI\miniENVI\obj\Debug\miniENVI.statistic.MatrixForm.resources
+D:\ProgramData\miniENVI\miniENVI\obj\Debug\miniENVI.statistic.MultiStatisIniForm.resources
+D:\ProgramData\miniENVI\miniENVI\obj\Debug\miniENVI.SingleStatisForm.resources
+D:\ProgramData\miniENVI\miniENVI\obj\Debug\miniENVI.csproj.GenerateResource.cache
+D:\ProgramData\miniENVI\miniENVI\obj\Debug\miniENVI.csproj.CoreCompileInputs.cache
+D:\ProgramData\miniENVI\miniENVI\obj\Debug\miniENVI.exe
+D:\ProgramData\miniENVI\miniENVI\obj\Debug\miniENVI.pdb

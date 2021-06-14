@@ -1,0 +1,20 @@
+ENVI
+description = {
+  Create New File Result [Thu Sep 24 16:17:49 2020]}
+samples = 600
+lines   = 600
+bands   = 7
+header offset = 0
+file type = ENVI Standard
+data type = 1
+interleave = bsq
+sensor type = Landsat TM
+byte order = 0
+x start = 2542
+y start = 1353
+wavelength units = Nanometers
+data ignore value = 0
+pixel size = {3.00000000e+001, 3.00000000e+001, units=Meters}
+wavelength = {
+  478.700012,  561.000000,  661.400024,  834.599976, 1650.000000, 1500.000000,
+ 2208.000000}
